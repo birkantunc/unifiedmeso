@@ -13,9 +13,13 @@ Detailed comments are provided within python scripts.
 Dependencies
 -----------------------
 sys
+
 os.path
+
 numpy
+
 scipy
+
 sklearn
 
 
