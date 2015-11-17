@@ -5,7 +5,7 @@
 
 #  This class provides an interface to identify communities and core-periphery structures
 #  For details please refer to:
-#  Birkan Tunc, Ragini Verma, Unifying Inference of Meso-Scale Structures in Networks, Plos One
+#  Birkan Tunc, Ragini Verma, Unifying Inference of Meso-Scale Structures in Networks, PLoS ONE 10(11): e0143133. doi:10.1371/journal.pone.0143133
 
 #  @version 0.1.0
 #  @date 2015/09/03 15:42
