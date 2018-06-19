@@ -10,4 +10,5 @@ This version also implements a more advanced generative model described in anoth
 
 
 [1] Birkan Tunc, Ragini Verma, Unifying Inference of Meso-Scale Structures in Networks, PLoS ONE 10(11): e0143133. doi:10.1371/journal.pone.0143133
+
 [2] Birkan Tunc, Drew Parker, Russell T Shinohara, Mark A Elliott, Kosha Ruparel, Raquel E Gur, Ruben C Gur, Ragini Verma, Multifactorial Dynamics of White Matter Connectivity During Adolescence, bioRxiv
